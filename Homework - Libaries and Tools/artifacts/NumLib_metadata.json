@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.28+commit.7893614a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "self",
+						"type": "uint256"
+					}
+				],
+				"name": "isEven",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Libaries and Tools/ParityChecker.sol": "NumLib"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Libaries and Tools/ParityChecker.sol": {
+			"keccak256": "0x04f137e41123433bdeb41cff53a1785b43fd4fa902f75d4711fd6d7f04a7c618",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b9d7ad0ce9784e61f8defee481f1dde4cfeca9727a3cbdfb079d054ebe81ff1b",
+				"dweb:/ipfs/QmaLGUVbWbVbzV6iKqbcaAQFzpWr89oqLdk9qhL5tQViYh"
+			]
+		}
+	},
+	"version": 1
+}
